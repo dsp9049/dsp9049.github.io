@@ -1,3 +1,6 @@
 layout: page
 title: "Home Page: Animal Crossing New Horizons"
-permalink: /
+permalink: /leaf
+
+this is about a leaf
+
